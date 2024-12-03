@@ -38,6 +38,7 @@ git clone <repository_url>
 cd <repository_name>
 \`\`\`
 
+
 3. Configure AWS Credentials
 Create a file jobs/config.py containing your AWS credentials:
 \`\`\`python
